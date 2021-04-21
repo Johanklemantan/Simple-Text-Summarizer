@@ -13,6 +13,14 @@ You can try to use my simple summarizer :<br>
 <a href='https://jo-text-summarization.herokuapp.com/'>Johan's Simple Summarizer</a>
 
 How to use :
-1. Copy and paste an article you want to summarize
-2. Pick how many sentences you want your article to be summarized
-3. Click Summarize
+1. Copy and paste an article you want to summarize ( for the example I took Michael Jordan article from Wikipedia )
+2. Pick how many sentences you want your article to be summarized ( I choose to summarize it into 4 sentences )
+
+<img src='1.PNG'><br>
+3. Click Summarize<br>
+
+<h3> The Result </h3>
+<img src='2.PNG'>
+
+#### Thank you
+#### Happy Coding
